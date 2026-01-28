@@ -6,7 +6,7 @@ Posteriormente, segui carreira em **Eletrotécnica**, área na qual atuei profis
 
 Atualmente, retomei os estudos em **Desenvolvimento de Sistemas**, unindo fundamentos clássicos da computação com tecnologias modernas, como:
 
-- Python  
+- Python (estudo contínuo e aprendizado)
 - C# / .NET  
 - **Java** (fundamentos e estudos em andamento)  
 - HTML, CSS e JavaScript  

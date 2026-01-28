@@ -1,6 +1,6 @@
 👋 Olá, eu sou Lilton Magalhães
 
-Comecei minha trajetória na informática em 1985, quando programar significava entender a máquina de verdade. Tive meus primeiros contatos com BASIC, dBase II, dBase III e iniciei estudos em COBOL, ainda nos tempos dos microcomputadores PROLÓGICA e dos disquetes de 5 1/4". Naquele período, a tecnologia ainda não era vista como uma carreira sólida e, por orientação familiar, optei por seguir outro caminho.
+Comecei minha trajetória na informática em 1985, quando programar era entender a máquina de verdade. Tive meus primeiros contatos com BASIC, dBase II, dBase III e iniciei estudos em COBOL, ainda nos tempos dos microcomputadores PROLÓGICA e dos disquetes de 5 1/4". Naquele período, a tecnologia ainda não era vista como uma carreira sólida e, por orientação familiar, optei por seguir outro caminho.
 
 Migrei para a área de Eletrotécnica, formação que me permitiu construir uma trajetória profissional estável e sustentar minha família por muitos anos. Mesmo fora da TI, nunca me afastei completamente da lógica, da tecnologia e da curiosidade técnica.
 

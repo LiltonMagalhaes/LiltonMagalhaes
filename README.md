@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, eu sou Lilton Magalhães
 
-<!--
-**LiltonMagalhaes/LiltonMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha trajetória na tecnologia começou em **1985**, com linguagens e ferramentas como **BASIC**, **dBase II**, **dBase III** e estudos iniciais em **COBOL**.
 
-Here are some ideas to get you started:
+Posteriormente, segui carreira em **Eletrotécnica**, área na qual atuei profissionalmente por muitos anos, adquirindo forte experiência prática, disciplina técnica e foco em soluções reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, retomei os estudos em **Desenvolvimento de Sistemas**, unindo fundamentos clássicos da computação com tecnologias modernas, como:
+
+- Python
+- C# / .NET
+- HTML, CSS e JavaScript
+- APIs e aplicações web
+- Estudos em Java e outras linguagens
+
+Meu interesse está em compreender **como as coisas funcionam**, desde o nível mais básico até aplicações completas, valorizando código limpo, lógica clara e aprendizado contínuo.
+
+Este repositório reúne projetos de estudo, experimentos e aplicações práticas ao longo dessa nova fase.

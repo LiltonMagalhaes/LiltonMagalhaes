@@ -1,10 +1,13 @@
 👋 Olá, eu sou Lilton Magalhães
 
-Minha trajetória na tecnologia começou em **1985**, com linguagens e ferramentas como **BASIC**, **dBase II**, **dBase III** e estudos iniciais em **COBOL**.
+Comecei minha trajetória na informática em 1985, quando programar significava entender a máquina de verdade.
+Tive meus primeiros contatos com BASIC, dBase II, dBase III e cheguei a iniciar estudos em COBOL, ainda nos tempos dos microcomputadores PROLÓGICA e disquetes 5 1/4".
+Naquele momento, a tecnologia ainda não era vista como uma carreira sólida, e por orientação familiar optei por seguir outro caminho. Migrei para a área de Eletrotécnica, formação que me permitiu construir uma trajetória profissional estável e sustentar minha família por muitos anos.
+Mesmo atuando fora da TI, nunca me afastei completamente da lógica, da tecnologia e da curiosidade técnica. Com o tempo, e diante das transformações do mercado e da vida, retomei os estudos em Tecnologia da Informação, agora com uma visão mais madura, crítica e focada.
+Atualmente estudo e desenvolvo projetos em programação, unindo fundamentos clássicos da computação com tecnologias modernas. A experiência prática com sistemas, eletricidade e resolução de problemas no mundo real moldou minha forma de pensar código: com organização, responsabilidade e propósito.
+Acredito que tecnologia não é apenas sobre linguagens ou ferramentas, mas sobre resolver problemas reais, com consistência e aprendizado contínuo.
 
-Posteriormente, segui carreira em **Eletrotécnica**, área na qual atuei profissionalmente por muitos anos, adquirindo forte experiência prática, disciplina técnica e foco em soluções reais.
-
-Atualmente, retomei os estudos em **Desenvolvimento de Sistemas**, unindo fundamentos clássicos da computação com tecnologias modernas, como:
+Retomei os estudos em **Desenvolvimento de Sistemas**, unindo fundamentos clássicos da computação com tecnologias modernas, como:
 
 - Python (estudo contínuo e aprendizado)
 - C# / .NET
